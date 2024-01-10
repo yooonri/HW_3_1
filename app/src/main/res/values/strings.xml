@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW_3_1</string>
+    <string name="text">Text</string>
+    <string name="send">SEND</string>
+    <string name="theme">Theme</string>
+    <string name="rsk_mva_gmail_com">rsk.mva@gmail.com</string>
+    <string name="send_us_email">Send us Email</string>
+</resources>
